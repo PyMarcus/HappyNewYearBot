@@ -47,7 +47,7 @@ class BroadcastZap:
     @classmethod
     def send_msg(cls):
         contatos, driver = BroadcastZap.search_contacts()
-        msg = "OBS: esta mensagem foi enviada por um bot que construí.No entanto, saiba que é uma mensagem sincera!\nEstou apenas me divertindo um pouco :) - e programei para enviar agora,pois vou estar off"
+        msg = "Feliz Ano novo!!!"
         for nomes in contatos:
             driver.find_element(By.XPATH, "//div[@role='textbox']").send_keys(f"{nomes}")
             time.sleep(1)
