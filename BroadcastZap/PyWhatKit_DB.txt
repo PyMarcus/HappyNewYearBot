@@ -1,0 +1,20 @@
+Date: 31/12/2021
+Time: 17:22
+Group ID: Guri sem Samucrel
+Message: Isso é um teste,eu sou um robô
+--------------------
+Date: 31/12/2021
+Time: 17:23
+Group ID: Guri sem Samucrel
+Message: Isso é um teste,eu sou um robô
+--------------------
+Date: 31/12/2021
+Time: 17:24
+Group ID: Guri sem Samucrel
+Message: Isso é um teste,eu sou um robô
+--------------------
+Date: 31/12/2021
+Time: 17:57
+Group ID: Guri sem Samucrel
+Message: Isso é um teste,eu sou um robô
+--------------------
